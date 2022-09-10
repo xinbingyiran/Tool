@@ -16,6 +16,6 @@
 - [GitHub](https://github.com/xinbingyiran/Tool)
 - [Gitee](https://gitee.com/xinbingyiran/tool)
 
-## 成品地址
+## 成品
 
-- [阿里云](https://www.aliyundrive.com/s/3CfyWRLmDhb)
+- 请下载源码后，安装[dotnetsdk](https://dotnet.microsoft.com/)自行编译
